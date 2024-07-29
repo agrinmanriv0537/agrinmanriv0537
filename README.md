@@ -1,4 +1,4 @@
-## Hi there 👋
+## Alex Grinman Rivera
 
 <!--
 **agrinmanriv0537/agrinmanriv0537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - Cyber Intern at Booz Allen Hamilton
+ - Full time student at Cockrell School of Engineering @ University of Texas Austin
+ - Studying Computational Engineering
