@@ -40,5 +40,5 @@ Right now, I’m focused on building practical engineering software skills throu
 ## Connect
 
 * LinkedIn: [Link](https://www.linkedin.com/in/alexander-grinman-rivera)
-* Portfolio: [Link](https://www.agrinmanriv0537.github.io)
-* Email: [Link](https://www.agrinmanriv@gmail.com)
+* Portfolio: [Link](https://agrinmanriv0537.github.io)
+* Email: [Link](mailto:agrinmanriv@gmail.com)
