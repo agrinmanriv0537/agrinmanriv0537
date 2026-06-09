@@ -1,6 +1,6 @@
 # Alex Grinman Rivera
 
-Hi, I’m Alex — a Computational Engineering student at The University of Texas at Austin interested in automation, simulation, robotics, and applied software development.
+Hi, I’m Alex - a Computational Engineering student at The University of Texas at Austin interested in automation, simulation, robotics, and applied software development.
 
 I’m currently a Process Control Intern at Suzano Packaging, where I’m gaining hands-on experience with industrial automation, programmable logic controllers, process control systems, and real-world engineering workflows. My background also includes cybersecurity, robotics, RESTful APIs, simulation, and data-driven engineering projects.
 
